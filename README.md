@@ -1,3 +1,10 @@
+# This is a modified version of the BLE-mod of the ENDGAME keyboards to give it Cherry ULP Switches
+This is untested! Proceed at your own risk!
+
+![front view of the PCB](001%20PCB/front.png)
+
+![back view of the PCB](001%20PCB/back.png)
+
 # This is amodified version of THE ENDGAME keyboard to make it wireless
  This works by using a SuperMini NRF52840 or a nice!nano. Sadly, there's not solution with castellated holes so the soldering is a little bit... special. Here are some pictures of the board:
 
@@ -43,15 +50,15 @@ This low profile keyboard is built for high performance typing. Its slightly sta
 
 ## Everything You Need, All In One Place ##
 
-Get the entire kit from KeebSupply, a trusted vendor with affordable international shipping. It’s your one stop shop for everything you need highly recommended! [Buy here](https://keeb.supply/products/endgame) 
+Get the entire kit from KeebSupply, a trusted vendor with affordable international shipping. It’s your one stop shop for everything you need highly recommended! [Buy here](https://keeb.supply/products/endgame)
 
-For an excellent build guide, check out this fantastic resource from KeebSupply. I haven’t had the time to create my own guide (and honestly, I couldn’t top this one). Big thanks to @KeebSupply! [Build Guide and Supplies](https://docs.keeb.supply/endgame/) 
+For an excellent build guide, check out this fantastic resource from KeebSupply. I haven’t had the time to create my own guide (and honestly, I couldn’t top this one). Big thanks to @KeebSupply! [Build Guide and Supplies](https://docs.keeb.supply/endgame/)
 
 
 
 ## PARTS LIST PCB ##
 
-- 1x The Endgame PCB             [Gerber Files](https://github.com/OldMan6955/TheEndgame2024/tree/main/001%20PCB) 
+- 1x The Endgame PCB             [Gerber Files](https://github.com/OldMan6955/TheEndgame2024/tree/main/001%20PCB)
 
 There are now two versions of the PCB:
 1.	COPPER Version:
@@ -60,9 +67,9 @@ In this version, all design elements are on the copper and mask layers. I used t
 This version is untested. All design elements have been moved to the silkscreen layer, making it much more performant on less powerful PCs. The Gerber files display correctly on JLCPCB but have not yet been tested.
 Please always test the files yourself to rule out potential errors. Thank you!
 
-- 36x Choc v1 Hotswap Sockets    [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
-- 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005004309686841.html?) 
-- 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
+- 36x Choc v1 Hotswap Sockets    [buy here](https://www.aliexpress.com/item/1005004916925259.html?)
+- 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005004309686841.html?)
+- 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?)
 
 or get the better looking thingy, highly recommended
 
@@ -72,14 +79,14 @@ or get the better looking thingy, highly recommended
 
 ## PARTS LIST FDM CASE ##
 
-- 4x M3 6mm countersunk          [buy here](https://de.aliexpress.com/item/4001199728978.html) 
-- 4x M3 5mm flathead             [buy here](https://de.aliexpress.com/item/1005005069968742.html) 
+- 4x M3 6mm countersunk          [buy here](https://de.aliexpress.com/item/4001199728978.html)
+- 4x M3 5mm flathead             [buy here](https://de.aliexpress.com/item/1005005069968742.html)
 
 You can choose either countersunk or flathead screws both work well. Countersunk screws automatically align the PCB, while flathead screws allow you to manually align and adjust as needed.
 The hole for the heat inserts is 4mm deep, and the PCB is 1.6mm thick, so 5mm screws are a perfect fit. Just double-check how the screw length is measured, as this can vary.
 
-- 4x M3 D4.6mm L3mm Heatinsert   [buy here](https://de.aliexpress.com/item/4000232858343.html) 
-- 12x M3 D6.6mm grommet black     [buy here](https://de.aliexpress.com/item/4000712868621.html) 
+- 4x M3 D4.6mm L3mm Heatinsert   [buy here](https://de.aliexpress.com/item/4000232858343.html)
+- 12x M3 D6.6mm grommet black     [buy here](https://de.aliexpress.com/item/4000712868621.html)
 
 You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you can use up to 12 depending on your preference. They work perfectly as feet and provide excellent grip on my desk. Alternatively, bumpons are a great option too.
 
@@ -101,7 +108,7 @@ Check with your local vendor, they’re in stock almost everywhere these days. A
 
 ## FIRMWARE - QMK AND VIAL ##
 
-The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download: [Get it here](https://github.com/OldMan6955/TheEndgame2024/tree/main/003%20FIRMWARE) 
+The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download: [Get it here](https://github.com/OldMan6955/TheEndgame2024/tree/main/003%20FIRMWARE)
 Huge thanks to him, I’d have been completely lost without his help!
 
 ## DISCLAIMER ##
@@ -136,7 +143,7 @@ To all who contributed thank you. Enjoy the journey, and have fun exploring what
 
 While this project is free and open source, I truly appreciate your support. If you'd like to contribute, feel free to leave a tip via Ko-fi to help support future projects. Thank you!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9)
 
 ## SHARE YOUR BUILDS ##
 
