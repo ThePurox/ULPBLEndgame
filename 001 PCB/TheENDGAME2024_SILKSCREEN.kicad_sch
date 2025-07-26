@@ -3819,7 +3819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 156.21 35.56 0)
 			(effects
 				(font
@@ -3893,7 +3893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 142.24 90.17 0)
 			(effects
 				(font
@@ -3967,7 +3967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 226.06 35.56 0)
 			(effects
 				(font
@@ -4043,7 +4043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 151.13 60.96 90)
 			(effects
 				(font
@@ -4117,7 +4117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 184.15 72.39 0)
 			(effects
 				(font
@@ -4193,7 +4193,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 220.98 43.18 90)
 			(effects
 				(font
@@ -4269,7 +4269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 151.13 80.01 90)
 			(effects
 				(font
@@ -4345,7 +4345,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 248.92 43.18 90)
 			(effects
 				(font
@@ -4419,7 +4419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 198.12 72.39 0)
 			(effects
 				(font
@@ -4495,7 +4495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 234.95 43.18 90)
 			(effects
 				(font
@@ -4569,7 +4569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 156.21 53.34 0)
 			(effects
 				(font
@@ -4643,7 +4643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 198.12 35.56 0)
 			(effects
 				(font
@@ -4717,7 +4717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 170.18 53.34 0)
 			(effects
 				(font
@@ -4793,7 +4793,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 165.1 60.96 90)
 			(effects
 				(font
@@ -4867,7 +4867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 254 35.56 0)
 			(effects
 				(font
@@ -4941,7 +4941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 198.12 90.17 0)
 			(effects
 				(font
@@ -5017,7 +5017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 193.04 43.18 90)
 			(effects
 				(font
@@ -5091,7 +5091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 184.15 90.17 0)
 			(effects
 				(font
@@ -5165,7 +5165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-xp-promicroish:SuperMini_nRF52840_AH_USBup"
+		(property "Footprint" "TheEndgame2024:SuperMini_nRF52840_AH_USBup_3D"
 			(at 41.91 69.85 0)
 			(effects
 				(font
@@ -5316,7 +5316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 193.04 97.79 90)
 			(effects
 				(font
@@ -5390,7 +5390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 254 72.39 0)
 			(effects
 				(font
@@ -5466,7 +5466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 248.92 60.96 90)
 			(effects
 				(font
@@ -5542,7 +5542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 137.16 97.79 90)
 			(effects
 				(font
@@ -5618,7 +5618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 179.07 97.79 90)
 			(effects
 				(font
@@ -5694,7 +5694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 220.98 60.96 90)
 			(effects
 				(font
@@ -5770,7 +5770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 165.1 80.01 90)
 			(effects
 				(font
@@ -5844,7 +5844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 170.18 72.39 0)
 			(effects
 				(font
@@ -5920,7 +5920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 248.92 80.01 90)
 			(effects
 				(font
@@ -5994,7 +5994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 240.03 35.56 0)
 			(effects
 				(font
@@ -6200,7 +6200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 184.15 35.56 0)
 			(effects
 				(font
@@ -6276,7 +6276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 193.04 60.96 90)
 			(effects
 				(font
@@ -6350,7 +6350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 142.24 35.56 0)
 			(effects
 				(font
@@ -6426,7 +6426,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 137.16 60.96 90)
 			(effects
 				(font
@@ -6500,7 +6500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 212.09 90.17 0)
 			(effects
 				(font
@@ -6574,7 +6574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 212.09 53.34 0)
 			(effects
 				(font
@@ -6650,7 +6650,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 262.89 43.18 90)
 			(effects
 				(font
@@ -6724,7 +6724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 240.03 72.39 0)
 			(effects
 				(font
@@ -6800,7 +6800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 137.16 80.01 90)
 			(effects
 				(font
@@ -6874,7 +6874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 267.97 90.17 0)
 			(effects
 				(font
@@ -6950,7 +6950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 207.01 97.79 90)
 			(effects
 				(font
@@ -7024,7 +7024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 198.12 53.34 0)
 			(effects
 				(font
@@ -7098,7 +7098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 184.15 53.34 0)
 			(effects
 				(font
@@ -7174,7 +7174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 207.01 80.01 90)
 			(effects
 				(font
@@ -7250,7 +7250,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 193.04 80.01 90)
 			(effects
 				(font
@@ -7457,7 +7457,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 220.98 80.01 90)
 			(effects
 				(font
@@ -7531,7 +7531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 226.06 72.39 0)
 			(effects
 				(font
@@ -7607,7 +7607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 207.01 60.96 90)
 			(effects
 				(font
@@ -7683,7 +7683,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 137.16 43.18 90)
 			(effects
 				(font
@@ -7759,7 +7759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 262.89 80.01 90)
 			(effects
 				(font
@@ -7835,7 +7835,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 220.98 97.79 90)
 			(effects
 				(font
@@ -7911,7 +7911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 151.13 43.18 90)
 			(effects
 				(font
@@ -7985,7 +7985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 240.03 53.34 0)
 			(effects
 				(font
@@ -8059,7 +8059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 156.21 72.39 0)
 			(effects
 				(font
@@ -8135,7 +8135,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 207.01 43.18 90)
 			(effects
 				(font
@@ -8209,7 +8209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 267.97 72.39 0)
 			(effects
 				(font
@@ -8283,7 +8283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 212.09 35.56 0)
 			(effects
 				(font
@@ -8359,7 +8359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 234.95 60.96 90)
 			(effects
 				(font
@@ -8433,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 254 53.34 0)
 			(effects
 				(font
@@ -8509,7 +8509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 234.95 80.01 90)
 			(effects
 				(font
@@ -8654,7 +8654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 212.09 72.39 0)
 			(effects
 				(font
@@ -8730,7 +8730,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 262.89 60.96 90)
 			(effects
 				(font
@@ -8869,7 +8869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 170.18 35.56 0)
 			(effects
 				(font
@@ -8943,7 +8943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 226.06 53.34 0)
 			(effects
 				(font
@@ -9019,7 +9019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 165.1 43.18 90)
 			(effects
 				(font
@@ -9093,7 +9093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 267.97 35.56 0)
 			(effects
 				(font
@@ -9167,7 +9167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 142.24 53.34 0)
 			(effects
 				(font
@@ -9243,7 +9243,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 179.07 43.18 90)
 			(effects
 				(font
@@ -9319,7 +9319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 262.89 97.79 90)
 			(effects
 				(font
@@ -9395,7 +9395,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 179.07 60.96 90)
 			(effects
 				(font
@@ -9469,7 +9469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 267.97 53.34 0)
 			(effects
 				(font
@@ -9543,7 +9543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 142.24 72.39 0)
 			(effects
 				(font
@@ -9617,7 +9617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH_CUT"
+		(property "Footprint" "TheEndgame2024:Cherry_ULP_TH_CUT_3D"
 			(at 226.06 90.17 0)
 			(effects
 				(font
@@ -9693,7 +9693,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
+		(property "Footprint" "TheEndgame2024:Diode_SOD123_3D"
 			(at 179.07 80.01 90)
 			(effects
 				(font

@@ -1,0 +1,162 @@
+(footprint "Diode_SOD123_3D"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(placed yes)
+	(layer "F.Cu")
+	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
+	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
+	(property "Reference" "D17"
+		(at -0.000002 1.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d1bbe58d-cd1b-4caf-9745-7116debb6db1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_Small"
+		(at 0 -1.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "240dca61-021b-431b-9923-2ef05c6e8435")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f0139356-7887-4eda-99e9-59480c3e1aa4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "22f1aac4-def7-46d4-a940-33c66d1dc029")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d7af8a9-5c67-4b7b-9427-a59ae34a8375")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd5161b7-9d33-453d-8bc3-9f8aadddbe84")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46c396e8-f7de-49be-912e-21386fdea00f")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "91d58e72-d908-4796-9f6f-cdcb8d1fb770")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2 0)
+		(layer "F.Fab")
+		(uuid "59a16791-bbd7-445a-971f-59cdefbe0c35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -1.45 0 0.2)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.447728 0.651567) (xy -0.702265 0.647553) (xy -1.249992 -0.004363) (xy -0.697727 -0.652439)
+					(xy 0.452266 -0.648425)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "bc7d9438-d2ba-4e81-8550-c81c3bf35357")
+	)
+	(pad "2" smd roundrect
+		(at 1.7 0)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.06666666667)
+		(uuid "8cb0bd8d-8cd2-4615-9338-27ee11d6bd88")
+	)
+	(embedded_fonts no)
+	(model "/Users/goatbook/Documents/GitHub/KiCad-Assets/3D Models Filets/D_SOD-123 Filets.step"
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "/Users/hendrik/git/ULPBLEndgame/005 FOOTPRINTS AND SYMBOLS/SOD123F.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)
