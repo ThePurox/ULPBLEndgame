@@ -1,4 +1,4 @@
-![intro](004%20IMAGES/intro.png)
+![intro](004%20IMAGES/intro.webp)
 
 # This is a modified version of the BLE-mod of the ENDGAME keyboards to give it Cherry ULP Switches
 
@@ -8,13 +8,13 @@ This is untested! Proceed at your own risk!
 
 ![back view of the PCB](001%20PCB/back.png)
 
-![top view of the case](004%20IMAGES/ulp_case_alu_3.png)
+![top view of the case](004%20IMAGES/ulp_case_alu_3.webp)
 
-![front view of the case](004%20IMAGES/ulp_case_alu_1.png)
+![front view of the case](004%20IMAGES/ulp_case_alu_1.webp)
 
-![side view of the case](004%20IMAGES/ulp_case_alu_2.png)
+![side view of the case](004%20IMAGES/ulp_case_alu_2.webp)
 
-![glass](004%20IMAGES/ulp_case_alu_4.png)
+![glass](004%20IMAGES/ulp_case_alu_4.webp)
 
 # This is amodified version of THE ENDGAME keyboard to make it wireless
 
